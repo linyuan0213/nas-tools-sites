@@ -1,0 +1,120 @@
+2025-06-21 01:50:43.784 | INFO     | __main__:main:88 - 脚本开始执行
+2025-06-21 01:50:43.785 | INFO     | __main__:main:93 - 输出目录设置为: build/bin
+2025-06-21 01:50:43.785 | INFO     | __main__:main:101 - 开始格式化JSON文件...
+2025-06-21 01:50:43.785 | DEBUG    | __main__:main:107 - 格式化文件: 白兔(hares).json
+2025-06-21 01:50:43.785 | DEBUG    | __main__:main:107 - 格式化文件: EZTV(eztv).json
+2025-06-21 01:50:43.785 | DEBUG    | __main__:main:107 - 格式化文件: 皇后(opencd).json
+2025-06-21 01:50:43.786 | DEBUG    | __main__:main:107 - 格式化文件: 好多油(HDU).json
+2025-06-21 01:50:43.786 | DEBUG    | __main__:main:107 - 格式化文件: Nyaa(nyaa).json
+2025-06-21 01:50:43.786 | DEBUG    | __main__:main:107 - 格式化文件: 兽站(hd4fans).json
+2025-06-21 01:50:43.787 | DEBUG    | __main__:main:107 - 格式化文件: ToSky(ToSky).json
+2025-06-21 01:50:43.787 | DEBUG    | __main__:main:107 - 格式化文件: ROUSI(ROUSI).json
+2025-06-21 01:50:43.787 | DEBUG    | __main__:main:107 - 格式化文件: PT时间(pttime).json
+2025-06-21 01:50:43.789 | DEBUG    | __main__:main:107 - 格式化文件: 观众(audiences).json
+2025-06-21 01:50:43.790 | DEBUG    | __main__:main:107 - 格式化文件: OshenPT(oshenpt).json
+2025-06-21 01:50:43.790 | DEBUG    | __main__:main:107 - 格式化文件: HDFun(hdfun).json
+2025-06-21 01:50:43.790 | DEBUG    | __main__:main:107 - 格式化文件: 南洋(nanyangpt).json
+2025-06-21 01:50:43.791 | DEBUG    | __main__:main:107 - 格式化文件: 莫妮卡(monikadesign).json
+2025-06-21 01:50:43.791 | DEBUG    | __main__:main:107 - 格式化文件: JPTV(jptv).json
+2025-06-21 01:50:43.791 | DEBUG    | __main__:main:107 - 格式化文件: PTLGS.json
+2025-06-21 01:50:43.791 | DEBUG    | __main__:main:107 - 格式化文件: 听听歌(ttg).json
+2025-06-21 01:50:43.792 | DEBUG    | __main__:main:107 - 格式化文件: 吐鲁番(eastgame).json
+2025-06-21 01:50:43.792 | DEBUG    | __main__:main:107 - 格式化文件: 蝶粉(discfan).json
+2025-06-21 01:50:43.792 | DEBUG    | __main__:main:107 - 格式化文件: 猫站(pterclub).json
+2025-06-21 01:50:43.793 | DEBUG    | __main__:main:107 - 格式化文件: Uploads(uploads).json
+2025-06-21 01:50:43.793 | DEBUG    | __main__:main:107 - 格式化文件: 库非(kufei).json
+2025-06-21 01:50:43.793 | DEBUG    | __main__:main:107 - 格式化文件: HDVIDEO(hdvideo).json
+2025-06-21 01:50:43.793 | DEBUG    | __main__:main:107 - 格式化文件: FileList(filelist).json
+2025-06-21 01:50:43.794 | DEBUG    | __main__:main:107 - 格式化文件: ultrahd(ultrahd).json
+2025-06-21 01:50:43.794 | DEBUG    | __main__:main:107 - 格式化文件: 小蚂蚁(hdmayi).json
+2025-06-21 01:50:43.794 | DEBUG    | __main__:main:107 - 格式化文件: 明教(hdpt).json
+2025-06-21 01:50:43.794 | DEBUG    | __main__:main:107 - 格式化文件: 自由农场(0ff).json
+2025-06-21 01:50:43.795 | DEBUG    | __main__:main:107 - 格式化文件: TorrentGalaxy(torrentgalaxy).json
+2025-06-21 01:50:43.795 | DEBUG    | __main__:main:107 - 格式化文件: 龙之家(dragonhd).json
+2025-06-21 01:50:43.795 | DEBUG    | __main__:main:107 - 格式化文件: 学校(btschool).json
+2025-06-21 01:50:43.795 | DEBUG    | __main__:main:107 - 格式化文件: 北洋园(tjupt).json
+2025-06-21 01:50:43.796 | DEBUG    | __main__:main:107 - 格式化文件: TorrentLeech(torrentleech).json
+2025-06-21 01:50:43.796 | DEBUG    | __main__:main:107 - 格式化文件: OKPT(OKPT).json
+2025-06-21 01:50:43.796 | DEBUG    | __main__:main:107 - 格式化文件: 海胆之家(haidan).json
+2025-06-21 01:50:43.796 | DEBUG    | __main__:main:107 - 格式化文件: 铂金家(pthome).json
+2025-06-21 01:50:43.797 | DEBUG    | __main__:main:107 - 格式化文件: 铂金学院(ptchina).json
+2025-06-21 01:50:43.797 | DEBUG    | __main__:main:107 - 格式化文件: 阿童木(hdatmos).json
+2025-06-21 01:50:43.797 | DEBUG    | __main__:main:107 - 格式化文件: PTFans.json
+2025-06-21 01:50:43.797 | DEBUG    | __main__:main:107 - 格式化文件: 家园(HDHome).json
+2025-06-21 01:50:43.798 | DEBUG    | __main__:main:107 - 格式化文件: MiKan(mikanani).json
+2025-06-21 01:50:43.798 | DEBUG    | __main__:main:107 - 格式化文件: 高清杜比(hddolby).json
+2025-06-21 01:50:43.798 | DEBUG    | __main__:main:107 - 格式化文件: 憨憨(hhanclub).json
+2025-06-21 01:50:43.799 | DEBUG    | __main__:main:107 - 格式化文件: 红豆饭(hdfans).json
+2025-06-21 01:50:43.799 | DEBUG    | __main__:main:107 - 格式化文件: 朱雀(zhuque).json
+2025-06-21 01:50:43.799 | DEBUG    | __main__:main:107 - 格式化文件: 财神(cspt.top) .json
+2025-06-21 01:50:43.799 | DEBUG    | __main__:main:107 - 格式化文件: 高清时间(HDTime).json
+2025-06-21 01:50:43.800 | DEBUG    | __main__:main:107 - 格式化文件: 星陨阁(xingyunge).json
+2025-06-21 01:50:43.800 | DEBUG    | __main__:main:107 - 格式化文件: ilolicon(ilolicon).json
+2025-06-21 01:50:43.800 | DEBUG    | __main__:main:107 - 格式化文件: 花梨月下(ECUSTPT).json
+2025-06-21 01:50:43.800 | DEBUG    | __main__:main:107 - 格式化文件: 海棠(htpt).json
+2025-06-21 01:50:43.801 | DEBUG    | __main__:main:107 - 格式化文件: 憨憨(hhan.club).json
+2025-06-21 01:50:43.801 | DEBUG    | __main__:main:107 - 格式化文件: 伊甸园(hdbd).json
+2025-06-21 01:50:43.801 | DEBUG    | __main__:main:107 - 格式化文件: 咖啡(ptcafe).json
+2025-06-21 01:50:43.802 | DEBUG    | __main__:main:107 - 格式化文件: IPT(iptorrents).json
+2025-06-21 01:50:43.802 | DEBUG    | __main__:main:107 - 格式化文件: 馒头(nextmteam) .json
+2025-06-21 01:50:43.802 | DEBUG    | __main__:main:107 - 格式化文件: 52pt(52pt).json
+2025-06-21 01:50:43.802 | DEBUG    | __main__:main:107 - 格式化文件: HDBao.json
+2025-06-21 01:50:43.803 | DEBUG    | __main__:main:107 - 格式化文件: 唐门(tmpt).json
+2025-06-21 01:50:43.803 | DEBUG    | __main__:main:107 - 格式化文件: 老师(nicept).json
+2025-06-21 01:50:43.803 | DEBUG    | __main__:main:107 - 格式化文件: 开心(joyhd).json
+2025-06-21 01:50:43.803 | DEBUG    | __main__:main:107 - 格式化文件: 梓喵(azusa).json
+2025-06-21 01:50:43.804 | DEBUG    | __main__:main:107 - 格式化文件: 空间(HDZone).json
+2025-06-21 01:50:43.804 | DEBUG    | __main__:main:107 - 格式化文件: 彩虹岛(ptchdbits).json
+2025-06-21 01:50:43.804 | DEBUG    | __main__:main:107 - 格式化文件: 末日种子库(AGSVPT).json
+2025-06-21 01:50:43.805 | DEBUG    | __main__:main:107 - 格式化文件: 春天(ssd).json
+2025-06-21 01:50:43.805 | DEBUG    | __main__:main:107 - 格式化文件: 打胶(dajiao).json
+2025-06-21 01:50:43.805 | DEBUG    | __main__:main:107 - 格式化文件: PTGTK(gtkpw).json
+2025-06-21 01:50:43.805 | DEBUG    | __main__:main:107 - 格式化文件: ACG.RIP(acgrip).json
+2025-06-21 01:50:43.806 | DEBUG    | __main__:main:107 - 格式化文件: 青蛙(qingwapt).json
+2025-06-21 01:50:43.806 | DEBUG    | __main__:main:107 - 格式化文件: 馒头(xpmteam).json
+2025-06-21 01:50:43.806 | DEBUG    | __main__:main:107 - 格式化文件: 馒头(mteam).json
+2025-06-21 01:50:43.806 | DEBUG    | __main__:main:107 - 格式化文件: iHDBits(ihdbits).json
+2025-06-21 01:50:43.807 | DEBUG    | __main__:main:107 - 格式化文件: 星空(star-space).json
+2025-06-21 01:50:43.807 | DEBUG    | __main__:main:107 - 格式化文件: 天雪(skyeysnow).json
+2025-06-21 01:50:43.807 | DEBUG    | __main__:main:107 - 格式化文件: 财神(cspt.date) .json
+2025-06-21 01:50:43.807 | DEBUG    | __main__:main:107 - 格式化文件: CinemaGeddon(cinemageddon).json
+2025-06-21 01:50:43.808 | DEBUG    | __main__:main:107 - 格式化文件: 麒麟(HDKylin).json
+2025-06-21 01:50:43.808 | DEBUG    | __main__:main:107 - 格式化文件: UBits(ubits).json
+2025-06-21 01:50:43.808 | DEBUG    | __main__:main:107 - 格式化文件: 馒头(zpm-team).json
+2025-06-21 01:50:43.808 | DEBUG    | __main__:main:107 - 格式化文件: 2xFree(2xfree).json
+2025-06-21 01:50:43.809 | DEBUG    | __main__:main:107 - 格式化文件: 猪猪(piggo).json
+2025-06-21 01:50:43.809 | DEBUG    | __main__:main:107 - 格式化文件: 熊猫(PANDA).json
+2025-06-21 01:50:43.809 | DEBUG    | __main__:main:107 - 格式化文件: PT空间(ptzone).json
+2025-06-21 01:50:43.810 | DEBUG    | __main__:main:107 - 格式化文件: DogPT(dogpt).json
+2025-06-21 01:50:43.810 | DEBUG    | __main__:main:107 - 格式化文件: 冬樱(wintersakura).json
+2025-06-21 01:50:43.810 | DEBUG    | __main__:main:107 - 格式化文件: 冰淇淋(icc2022).json
+2025-06-21 01:50:43.810 | DEBUG    | __main__:main:107 - 格式化文件: 葡萄(putao).json
+2025-06-21 01:50:43.811 | DEBUG    | __main__:main:107 - 格式化文件: 动漫花园(dmhy).json
+2025-06-21 01:50:43.811 | DEBUG    | __main__:main:107 - 格式化文件: 柠檬(LemonHD).json
+2025-06-21 01:50:43.811 | DEBUG    | __main__:main:107 - 格式化文件: 彩虹岛(chdbits).json
+2025-06-21 01:50:43.811 | DEBUG    | __main__:main:107 - 格式化文件: 织梦(zmpt).json
+2025-06-21 01:50:43.812 | DEBUG    | __main__:main:107 - 格式化文件: 朋友(keepfrds).json
+2025-06-21 01:50:43.812 | DEBUG    | __main__:main:107 - 格式化文件: 象岛(ptvicomo).json
+2025-06-21 01:50:43.812 | DEBUG    | __main__:main:107 - 格式化文件: 天空(hdsky).json
+2025-06-21 01:50:43.812 | DEBUG    | __main__:main:107 - 格式化文件: 聆音(soulvoice).json
+2025-06-21 01:50:43.813 | DEBUG    | __main__:main:107 - 格式化文件: 他吹吹风(TCCF).json
+2025-06-21 01:50:43.813 | DEBUG    | __main__:main:107 - 格式化文件: 烧包乐园(ptsbao).json
+2025-06-21 01:50:43.813 | DEBUG    | __main__:main:107 - 格式化文件: 车站(carpt).json
+2025-06-21 01:50:43.814 | DEBUG    | __main__:main:107 - 格式化文件: 雨(raingfh).json
+2025-06-21 01:50:43.814 | DEBUG    | __main__:main:107 - 格式化文件: 红叶PT(leaves).json
+2025-06-21 01:50:43.815 | DEBUG    | __main__:main:107 - 格式化文件: 1PTBA(1ptba).json
+2025-06-21 01:50:43.815 | DEBUG    | __main__:main:107 - 格式化文件: 高清视界(HDarea).json
+2025-06-21 01:50:43.815 | DEBUG    | __main__:main:107 - 格式化文件: 幼儿园(U2).json
+2025-06-21 01:50:43.816 | DEBUG    | __main__:main:107 - 格式化文件: YemaPT(yemapt).json
+2025-06-21 01:50:43.816 | DEBUG    | __main__:main:107 - 格式化文件: 百川(hitpt).json
+2025-06-21 01:50:43.816 | DEBUG    | __main__:main:107 - 格式化文件: 瓷器(hdchina).json
+2025-06-21 01:50:43.816 | DEBUG    | __main__:main:107 - 格式化文件: 我堡(ourbits).json
+2025-06-21 01:50:43.817 | DEBUG    | __main__:main:107 - 格式化文件: 飞天拉面神教(fsm).json
+2025-06-21 01:50:43.817 | DEBUG    | __main__:main:107 - 格式化文件: 大青虫(cyanbug).json
+2025-06-21 01:50:43.817 | DEBUG    | __main__:main:107 - 格式化文件: 财神(cspt.cc).json
+2025-06-21 01:50:43.817 | INFO     | __main__:main:110 - 共格式化 111 个JSON文件
+2025-06-21 01:50:43.818 | INFO     | __main__:main:112 - 开始处理数据...
+2025-06-21 01:50:43.822 | SUCCESS  | __main__:main:116 - 处理完成，共找到 111 个索引器和 111 个配置
+2025-06-21 01:50:43.822 | INFO     | __main__:main:121 - 开始保存结果...
+2025-06-21 01:50:43.839 | SUCCESS  | __main__:main:124 - 结果已保存到: build/bin/sites.json 和 build/bin/sites.dat
+2025-06-21 01:50:43.839 | INFO     | __main__:main:125 - 脚本执行完成
