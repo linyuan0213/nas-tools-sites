@@ -1,0 +1,38 @@
+name: Release Sites Data
+
+on:
+  push:
+    tags:
+      - 'v*'  # 当推送v开头的tag时触发
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      run: pip install uv
+      
+    - name: Install dependencies with uv
+      run: uv pip install -r requirements.txt
+      
+    - name: Generate sites.dat
+      run: python app/generate_dat.py
+      
+    - name: Create Release and Upload Asset
+      uses: softprops/action-gh-release@v2
+      with:
+        files: |
+          build/bin/sites.dat
+        tag_name: ${{ github.ref_name }}
+        generate_release_notes: true
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
