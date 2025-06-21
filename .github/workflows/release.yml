@@ -22,7 +22,7 @@ jobs:
       run: pip install uv
       
     - name: Install dependencies with uv
-      run: uv pip install -r requirements.txt
+      run: uv sync
       
     - name: Generate sites.dat
       run: python app/generate_dat.py
