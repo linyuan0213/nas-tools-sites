@@ -175,7 +175,9 @@
             "//div[@class='whitespace-nowrap']/span[contains(@class, 'promotion-tag-free')]"
         ],
         "2XFREE": [],
-        "HR": [],
+        "HR": [
+            "//span[contains(text(), 'H&R')]"
+        ],
         "PEER_COUNT": [
             "//div[@id='seeder-count']"
         ]
